@@ -70,3 +70,7 @@ This notebook builds a dictionary-based lexical score measuring the relative fre
 
 Report
 The final report is available in this repository:NLP_Report_Maria_ABIRIZK_CentralBanksF.pdf
+
+I used Google Colab for this project. In notebooks 03, 04, 05, and 06, I used the CSV file generated and downloaded from notebook 02: bis_speeches_preprocessed_CB.
+To reproduce the project, you can use Google Colab, upload this CSV file to your Google Drive, and then run my notebooks.
+You can also download the bis_speeches_preprocessed_CB CSV file to your laptop and upload it to either VS Code or Google Colab in order to run the notebooks.
