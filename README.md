@@ -69,7 +69,4 @@ Exploratory hawkish-dovish tone analysis.
 This notebook builds a dictionary-based lexical score measuring the relative frequency of restrictive versus accommodative monetary-policy vocabulary.
 
 Report
-
-The final report is available in this repository:
-
-NLP_Report_Maria_ABIRIZK_CentralBanksF.pdf
+The final report is available in this repository:NLP_Report_Maria_ABIRIZK_CentralBanksF.pdf
